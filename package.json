@@ -1,0 +1,18 @@
+{
+  "name": "levelbot",
+  "version": "1.0.0",
+  "description": "Leveling Bot",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "IGRohan",
+  "license": "ISC",
+  "dependencies": {
+    "canvacord": "^5.0.8",
+    "discord.js": "^12.5.1",
+    "dotenv": "^8.2.0",
+    "quick.db": "^7.1.3"
+  }
+}
