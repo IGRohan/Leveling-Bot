@@ -5,6 +5,7 @@ I'm constantly working on this and there are still a lot of things i'll bring to
 # To-Do
 1. Set Level Messages Channel
 2. Toggle Leveling On/Off
+3. Custom prefix
 
 ## Try this yourself
 To Try it yourself, you need to have [Node.js](https://www.nodejs.org), Git (i guess thats all)
