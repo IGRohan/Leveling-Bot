@@ -2,7 +2,7 @@
 A Discord Leveling-Bot made using discord.js and quick.db!
 I'm constantly working on this and there are still a lot of things i'll bring to this ,so make sure you Star this project. You can click on the **Watch** option as well and you'll be notified whenever there is an update!
 
-# To-Do
+# To-Do [:white_check_mark:]
 1. Set Level Messages Channel
 2. Toggle Leveling On/Off
 3. Custom prefix
